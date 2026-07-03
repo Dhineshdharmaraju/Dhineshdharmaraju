@@ -60,7 +60,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css"/>
+<img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css"/>
 </p>
 
 ### Frontend
